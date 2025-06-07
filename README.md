@@ -9,7 +9,7 @@
 * 🌍 Я живу в Москве
 * ✉️  Связь со мной: [nikantoha2909@gmail.com](mailto:nikantoha2909@gmail.com)
 * ⚡  Люблю постоянно развиваться, изучать новое и повышать свои компетенции
-* 📝 [Мои проекты](./README.md)
+* 📝 [Мои проекты]((https://github.com/NikitinAnton/Data-Science-Projects/blob/main/README.md))
 
 ### Технологии:
 
